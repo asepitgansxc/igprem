@@ -15,7 +15,7 @@ $ pip install requests
 
 $ pip install cython
 
-
+$ rm -rf igprem
 
 ```
 
@@ -33,7 +33,7 @@ $ git clone https://github.com/privatescrip/igprem
 
 $ cd igprem
 
-$ python premig.py
+$ python premige.py
 
 ```
 
