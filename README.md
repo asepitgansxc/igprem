@@ -15,7 +15,7 @@ $ pip install requests
 
 $ pip install cython
 
-$ rm -rf spesial_zafi
+
 
 ```
 
@@ -23,7 +23,7 @@ $ rm -rf spesial_zafi
 
 ```
 
-$ git clone https://github.com/BOY-H4MZ4H/spesial_zafi
+$ git clone https://github.com/privatescrip/igprem
 
 ```
 
@@ -31,9 +31,9 @@ $ git clone https://github.com/BOY-H4MZ4H/spesial_zafi
 
 ```
 
-$ cd $HOME/spesial_zafi
+$ cd igprem
 
-$ python run.py
+$ python premig.py
 
 ```
 
