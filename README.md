@@ -2,9 +2,9 @@
 # INSTALL
 
 ```
-Bukti lord :
-<img src="https://i.ibb.co/JK0VL6c/Screenshot-2022-07-21-13-52-00-10-84d3000e3f4017145260f7618db1d683.jpg" width="640" title="Asepitgans" alt="Menu">
-</p>
+Logo Instragram 🔥
+![deskripsi gambar](https://i.ibb.co/JK0VL6c/Screenshot-2022-07-21-13-52-00-10-84d3000e3f4017145260f7618db1d683.jpg)
+
 
 $ pkg update && pkg upgrade
 
